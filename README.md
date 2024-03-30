@@ -1,0 +1,1 @@
+# CRM Monorepo - adventure awaits
